@@ -1,0 +1,11 @@
+Package: ${PACKAGE_NAME}
+Version: ${PACKAGE_VERSION}
+Section: misc
+Priority: optional
+Architecture: amd64
+Depends: libturbojpeg
+Maintainer: Björn Eistel <eistel@gmail.com>
+Homepage: https://github.com/OpenKinect/libfreenect2/
+Description: Driver for Kinect One (v2)
+ This Package is a simple deb-Wrapper
+ Source-Code: https://github.com/OpenKinect/libfreenect2/
